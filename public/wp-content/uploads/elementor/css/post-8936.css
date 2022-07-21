@@ -1,0 +1,21 @@
+.elementor-8936 .elementor-element.elementor-element-40447fa {
+    text-align: center;
+}
+
+.elementor-8936 .elementor-element.elementor-element-40447fa .elementor-heading-title {
+    color: var( --e-global-color-6ecc7ed);
+    font-family: "Roboto Slab", Sans-serif;
+    font-size: 30px;
+    font-weight: 600;
+    line-height: 1.8em;
+    letter-spacing: 2px;
+}
+
+@media(min-width:768px) {
+    .elementor-8936 .elementor-element.elementor-element-e516ac5 {
+        width: 81.357%;
+    }
+    .elementor-8936 .elementor-element.elementor-element-5538678 {
+        width: 18.575%;
+    }
+}

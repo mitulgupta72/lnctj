@@ -1,0 +1,48 @@
+.elementor-8920 .elementor-element.elementor-element-3683d89 {
+    transition: background 0.3s, border 0.3s, border-radius 0.3s, box-shadow 0.3s;
+    padding: 20px 0px 5px 0px;
+}
+
+.elementor-8920 .elementor-element.elementor-element-3683d89>.elementor-background-overlay {
+    transition: background 0.3s, border-radius 0.3s, opacity 0.3s;
+}
+
+.elementor-8920 .elementor-element.elementor-element-f135cfc .elementor-menu-toggle {
+    margin: 0 auto;
+}
+
+.elementor-8920 .elementor-element.elementor-element-f135cfc .elementor-nav-menu--main .elementor-item:hover,
+.elementor-8920 .elementor-element.elementor-element-f135cfc .elementor-nav-menu--main .elementor-item.elementor-item-active,
+.elementor-8920 .elementor-element.elementor-element-f135cfc .elementor-nav-menu--main .elementor-item.highlighted,
+.elementor-8920 .elementor-element.elementor-element-f135cfc .elementor-nav-menu--main .elementor-item:focus {
+    color: var( --e-global-color-5f15704);
+}
+
+.elementor-8920 .elementor-element.elementor-element-f135cfc .elementor-nav-menu--main:not(.e--pointer-framed) .elementor-item:before,
+.elementor-8920 .elementor-element.elementor-element-f135cfc .elementor-nav-menu--main:not(.e--pointer-framed) .elementor-item:after {
+    background-color: var( --e-global-color-5f15704);
+}
+
+.elementor-8920 .elementor-element.elementor-element-f135cfc .e--pointer-framed .elementor-item:before,
+.elementor-8920 .elementor-element.elementor-element-f135cfc .e--pointer-framed .elementor-item:after {
+    border-color: var( --e-global-color-5f15704);
+}
+
+.elementor-8920 .elementor-element.elementor-element-615b162 {
+    --grid-template-columns: repeat(0, auto);
+    --icon-size: 10px;
+    --grid-column-gap: 5px;
+    --grid-row-gap: 0px;
+}
+
+.elementor-8920 .elementor-element.elementor-element-615b162 .elementor-widget-container {
+    text-align: left;
+}
+
+.elementor-8920 .elementor-element.elementor-element-615b162 .elementor-social-icon {
+    --icon-padding: 1em;
+}
+
+.elementor-8920 .elementor-element.elementor-element-615b162 .elementor-icon {
+    border-radius: 3px 3px 3px 3px;
+}
